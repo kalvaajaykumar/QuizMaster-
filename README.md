@@ -27,4 +27,5 @@ Styling: Tailwind CSS
 ✅ Dark Mode Support
 ✅ Integration with AI for Smart Quiz Generation
 ![image](https://github.com/user-attachments/assets/d5858be9-5e01-40bd-b502-ff77baf2d128)
+![image](https://github.com/user-attachments/assets/854013aa-46a5-46bf-a3b2-0f31fa20ed08)
 
